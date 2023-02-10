@@ -73,7 +73,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />  
-</p>       
+</p>   
+
 --------------------------------
 
 🌱 Currently exploring technical content writing.
@@ -82,13 +83,9 @@
 
 Social media
 
-- &#128204; [Stackoverflow](https://stackoverflow.com/users/18516849/ypdev19)
-- &#128204; [LinkedIn](https://www.linkedin.com/in/ypetrilli/)
-- &#128204; [Git site](https://ypetrilli.github.io/)
-
 <!--
 **ypdev19/ypdev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+&#128204;
 Here are some ideas to get you started:
 📝
 🏆
