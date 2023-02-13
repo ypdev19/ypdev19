@@ -83,6 +83,15 @@
 
 Social media
 
+&#128204; [Stackoverflow](https://stackoverflow.com/users/18516849/ypdev19)
+<br>
+&#128204; [LinkedIn](https://www.linkedin.com/in/ypetrilli/)
+<br>
+&#128204; Website coming soon ...
+
+Credits 🏆
+--------------------------------
+- &#128204; Icons by [DEVICON](https://devicon.dev/) and [VECTORLOGO.ZONE](https://www.vectorlogo.zone/)
 <!--
 **ypdev19/ypdev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &#128204;
