@@ -1,13 +1,6 @@
 ## Hi there! I'm Yuli 👋
 
 &#128187; I'm a **Fullstack Developer** with some **tech lead background** and **8+ years of working experience**.
-
-⚡ _Making ideas contributions, getting involved in all aspects of a product, feature, project planning and development is my thing._
-<br>
-⚡ _Continuous learning and improvement are really important to me._
-<br>
-⚡ _My main expertise with web apps development resides with Java but I also have a significant experience with Javascript._
-
 --------------------------------
 
 ## 🛠️ Skills
