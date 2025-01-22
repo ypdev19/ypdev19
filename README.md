@@ -10,7 +10,8 @@ Profile under construction ...
 <br>
 &#128204; [LinkedIn](https://www.linkedin.com/in/ypetrilli/)
 <br>
-&#128204; Will be back soon :)
+
+Will be back soon :)
 
 Credits 🏆
 --------------------------------
