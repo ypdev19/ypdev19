@@ -3,9 +3,9 @@
 
 ## About Me
 
-💻 **_Software Engineer** with a decade of experience, specializing in **backend development**_.  
+💻 _**Software Engineer** with a decade of experience, specializing in **backend development**._  
 🛠️ _I’ve taken on various roles over the years, from **full-stack development** to **tech lead**, and more recently, **QA** and **automation**_.  
-👩‍💻🌍 _Currently working remotely as a **QA Backend Automation Engineer** for a company based in **Spain**_.
+👩‍💻 _Currently working remotely as a **QA Backend Automation Engineer** for a company based in **Spain**_.
 
 🎯 **Fun Facts**
 - Passionate about **sports** ⚽, **movies** 🎥 and **pizza** 🍕
@@ -21,11 +21,19 @@
 
 ---
 
-🌐💬**Connect with Me** 
+🌍 **Connect with Me** 
 
-- [GitHub](https://github.com/ypdev19?tab=repositories)
-- [Dev.to](https://dev.to/ypdev19)
-- [StackOverflow](https://stackoverflow.com/users/18516849/ypdev19)
+<p align="left">
+    <a href="https://github.com/ypdev19?tab=repositories">
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30" />
+    </a>
+    <a href="https://dev.to/ypdev19">
+      <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="Dev.to" width="30" height="30" />
+    </a>
+    <a href="https://stackoverflow.com/users/18516849/ypdev19">
+      <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="StackOverflow" width="30" height="30" />
+    </a>
+</p>
 
 ---
 
