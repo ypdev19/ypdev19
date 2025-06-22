@@ -2,8 +2,6 @@
 
 **SDET & Software Engineer | 10+ years of coding, now building quality into software**
 
----
-
 ### About Me
 
 💻 _Software Engineer with 10+ years of experience, evolving from backend and full-stack development to QA and automation._  
