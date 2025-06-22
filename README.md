@@ -4,7 +4,7 @@
 
 💻 _**Software Engineer** with a decade of experience, specializing in **backend development**._  
 🛠️ _I’ve taken on various roles over the years, from **full-stack development** to **tech lead**, and more recently, **QA** and **automation**_.  
-👩‍💻 _Currently working remotely as a **QA Backend Automation Engineer** for a company based in **Spain**_.
+👩‍💻 _Currently working remotely as a **SDET Engineer** for a company based in **Spain**_.
 
 **Fun Facts** 🌟
 
