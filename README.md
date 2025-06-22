@@ -1,16 +1,14 @@
 # Hi there! I'm Yuli 👋
 
+**SDET & Software Engineer | 10+ years of coding, now building quality into software**
+
+---
+
 ### About Me
 
-💻 _**Software Engineer** with a decade of experience, specializing in **backend development**._  
-🛠️ _I’ve taken on various roles over the years, from **full-stack development** to **tech lead**, and more recently, **QA** and **automation**_.  
-👩‍💻 _Currently working remotely as a **SDET Engineer** for a company based in **Spain**_.
-
-**Fun Facts** 🌟
-
-🎯 _I love_ ⚽ 🎥 🍕 <br>
-🎯 _Proud **Potterhead**_ ⚡ 🙋‍♀️  <br>
-🎯 _I play chess_ ♟️ <br>
+💻 _Software Engineer with 10+ years of experience, evolving from backend and full-stack development to QA and automation._  
+🛠️ _Former Tech Lead, now passionate SDET Engineer, blending coding and testing skills._  
+👩‍💻 _Currently working remotely as a SDET Engineer for a company based in Spain._
 
 ---
 
@@ -21,7 +19,16 @@
 
 ---
 
+**Fun Facts** 🌟
+
+🎯 _I love_ ⚽ 🎥 🍕 <br>
+🎯 _Proud **Potterhead**_ ⚡ 🙋‍♀️  <br>
+🎯 _I play chess_ ♟️ <br>
+
+---
+
 ### 📫 How to reach me
+
 <p align="left">
 <a href="https://github.com/ypdev19?tab=repositories" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" height="30" width="30" /></a>&nbsp;
 <a href="https://dev.to/ypdev19" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev.to" height="30" width="30" /></a>&nbsp;
