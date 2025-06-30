@@ -4,30 +4,23 @@
 <br>
 _[Code & QA Zone](https://www.codeqazone.com/) founder_
 
-### About Me
+## About Me
 
 💻 _Software Engineer with 10+ years of experience, evolving from backend and full-stack development to QA and automation._  
 🛠️ _Former Tech Lead, now passionate SDET Engineer, blending coding and testing skills._  
 👩‍💻 _Currently working remotely as a SDET Engineer for a company based in Spain._
 
----
-
-### 🗣 Languages I Speak
+## 🗣 Languages I Speak
 
 - **Spanish** 🇻🇪 (Native)
 - **English** 🇺🇸 [(C1)](https://cert.efset.org/zLgeBE)
 
----
-
-**Fun Facts** 🌟
-
+## Fun Facts 🌟
 🎯 _I love_ ⚽ 🎥 🍕 <br>
 🎯 _Proud **Potterhead**_ ⚡ 🙋‍♀️  <br>
 🎯 _I play chess_ ♟️ <br>
 
----
-
-### 📫 How to reach me
+## 📫 How to reach me
 
 <p align="left">
 <a href="https://github.com/ypdev19?tab=repositories" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" height="30" width="30" /></a>&nbsp;
@@ -35,9 +28,7 @@ _[Code & QA Zone](https://www.codeqazone.com/) founder_
 <a href="https://stackoverflow.com/users/18516849/ypdev19"><img align="center" alt="stackoverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" /></a>
 </p>
 
----
-
-### 💻 🚀 Main Tech Stack
+## 💻 🚀 Main Tech Stack
 
 Here's a glimpse of my **core technologies** and the ones I focus on the most. Though I’ve worked with many others along the way in my career:
 
@@ -58,14 +49,16 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"  />
 </p>
 
----
-
-### 🌱 What I'm Learning Right Now 
+## 🌱 What I'm Learning Right Now 
 - Frontend automation with **Cypress**    
 - **Italian** 🇮🇹🍕
 
----
-
-### ⭐📁 Check Out My Portfolio
+## ⭐📁 Check Out My Portfolio
 
 Take a closer look at my skills and projects in my portfolio, check it out **[here!](https://github.com/ypdev19?tab=repositories)**.
+
+## 📖 Blog & Community
+
+Founder of **Code & QA Zone**, where I share my journey and insights combining software development and quality assurance.  
+_[Visit Code & QA Zone](https://www.codeqazone.com/)_
+
