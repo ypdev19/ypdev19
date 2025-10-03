@@ -1,6 +1,6 @@
 # Hi there! I'm Yuli 👋
 
-**Software & SDET Engineer | 10+ years of coding, now building quality into software**
+**Software Engineer & SDET | 10+ years of coding, now building quality into software**
 <br>
 _[Code & QA Zone](https://www.codeqazone.com/) founder_
 
