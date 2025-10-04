@@ -50,7 +50,7 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
 </p>
 
 ## 🌱 What I'm Learning Right Now 
-- Frontend automation with **Cypress**    
+- Frontend automation with **Cypress** and **Playwright** 
 - **Italian** 🇮🇹🍕
 
 ## ⭐📁 Check Out My Portfolio
