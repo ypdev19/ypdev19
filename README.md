@@ -62,3 +62,4 @@ Take a closer look at my skills and projects in my portfolio, check it out **[he
 Founder of **Code & QA Zone**, where I share my journey and insights combining software development and quality assurance.  
 _[Visit Code & QA Zone](https://www.codeqazone.com/)_
 
+Check out my articles and community posts on [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/ypdev19) 
