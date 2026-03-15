@@ -16,19 +16,6 @@ _[Code & QA Zone](https://www.codeqazone.com/) founder_
 - **Spanish** 🇻🇪 (Native)
 - **English** 🇺🇸 [(C1)](https://cert.efset.org/zLgeBE)
 
-## Fun Facts 🌟
-🎯 _I love_ ⚽ 🎥 🍕 <br>
-🎯 _Proud **Potterhead**_ ⚡ 🙋‍♀️  <br>
-🎯 _I play chess_ ♟️ <br>
-
-## 📫 How to reach me
-
-<p align="left">
-<a href="https://github.com/ypdev19?tab=repositories" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" height="30" width="30" /></a>&nbsp;
-<a href="https://dev.to/ypdev19" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev.to" height="30" width="30" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/18516849/ypdev19"><img align="center" alt="stackoverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" /></a>
-</p>
-
 ## 💻 🚀 Main Tech Stack
 
 Here's a glimpse of my **core technologies** and the ones I focus on the most. Though I’ve worked with many others along the way in my career:
@@ -53,15 +40,14 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"  />
 </p>
 
-## 🌱 What I'm Learning Right Now 
-- Frontend automation with **Cypress** and **Playwright** 
-- **Italian** 🇮🇹🍕
-
 ## ⭐📁 Check Out My Portfolio
 
 * Take a closer look at my skills and projects in my portfolio, check it out **[here!](https://github.com/ypdev19?tab=repositories)**.
 
 * A free tool I made and you can use for free 👉 [Free Invoice Generator](https://invoicegenerator.codeqazone.com/) with multi currency, multi language, dual theme switch, pdf download and ads free.
+
+## 🌱 What I'm Learning Right Now 
+- **Italian** 🇮🇹🍕
 
 ## 📖 Blog & Community
 
@@ -69,3 +55,17 @@ Founder of **Code & QA Zone**, where I share my journey and insights combining s
 _[Visit Code & QA Zone](https://www.codeqazone.com/)_
 
 Check out my articles and community posts on [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/ypdev19) 
+
+
+## 📫 How to reach me
+
+<p align="left">
+<a href="https://github.com/ypdev19?tab=repositories" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" height="30" width="30" /></a>&nbsp;
+<a href="https://dev.to/ypdev19" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev.to" height="30" width="30" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/18516849/ypdev19"><img align="center" alt="stackoverflow" width="30px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" /></a>
+</p>
+
+## Fun Facts 🌟
+🎯 _I love_ ⚽ 🎥 🍕 <br>
+🎯 _Proud **Potterhead**_ ⚡ 🙋‍♀️  <br>
+🎯 _I play chess_ ♟️ <br>
