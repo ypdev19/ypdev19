@@ -1,9 +1,6 @@
 # Hi there! I'm Yuli 👋
 
-**Software Engineer & SDET | 10+ years of coding, now building quality into software**
-<br>
-
-_[Code & QA Zone](https://www.codeqazone.com/) founder_
+**Software Engineer & SDET | 10+ years of coding, now building quality into software** | **[Code & QA Zone](https://www.codeqazone.com/) founder**
 
 ## About Me
 
@@ -41,7 +38,7 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
 
 ## ⭐📁 Check Out My Portfolio
 
-* Take a closer look at my skills and projects in my portfolio, check it out **[here!](https://github.com/ypdev19?tab=repositories)**.
+* Do you want to see more about my experience and projects? Visit my full portfolio **[here](https://github.com/ypdev19?tab=repositories)**.
 
 * A free tool I made and you can use for free 👉 [Free Invoice Generator](https://invoicegenerator.codeqazone.com/) with multi currency, multi language, dual theme switch, pdf download and ads free.
 
@@ -50,8 +47,7 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
 
 ## 📖 Blog & Community
 
-Founder of **Code & QA Zone**, where I share my journey and insights combining software development and quality assurance.  
-_[Visit Code & QA Zone](https://www.codeqazone.com/)_
+Founder of **[Code & QA Zone](https://www.codeqazone.com/)**, where I share my journey and insights combining software development and quality assurance.
 
 Check out my articles and community posts on [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/ypdev19) 
 
