@@ -2,13 +2,14 @@
 
 **Software Engineer & SDET | 10+ years of coding, now building quality into software**
 <br>
+
 _[Code & QA Zone](https://www.codeqazone.com/) founder_
 
 ## About Me
 
-💻 _Software Engineer with 10+ years of experience, evolving from backend and full-stack development to QA and automation._  
-🛠️ _Former Tech Lead, now passionate SDET Engineer, blending coding and testing skills._  
-👩‍💻 _Currently working remotely as a SDET Engineer for a company based in Spain._
+* 💻 _Software Engineer with 10+ years of experience as a full-stack developer, specializing in backend._  
+* 🛠️ _Former Tech Lead now dedicated to Software Quality, leveraging a dual-perspective to build more stable, secure, and scalable systems._  
+* 👩‍💻 _Leveraging a decade of dev expertise as a Remote SDET (Spain), specializing in automation frameworks that guarantee stable deployments and scalable backend solutions._
 
 ## 🗣 Languages I Speak
 
@@ -55,7 +56,9 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
 
 ## ⭐📁 Check Out My Portfolio
 
-Take a closer look at my skills and projects in my portfolio, check it out **[here!](https://github.com/ypdev19?tab=repositories)**.
+* Take a closer look at my skills and projects in my portfolio, check it out **[here!](https://github.com/ypdev19?tab=repositories)**.
+
+* A free tool I made and you can use for free 👉 [Free Invoice Generator](https://invoicegenerator.codeqazone.com/) with multi currency, multi language, dual theme switch, pdf download and ads free.
 
 ## 📖 Blog & Community
 
