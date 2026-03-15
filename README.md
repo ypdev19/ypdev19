@@ -40,12 +40,15 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
 
  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"  />
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  />
 
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" />
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" />
 
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="karate" width="65" height="65"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="65" height="65"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"  />
 </p>
