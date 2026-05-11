@@ -1,12 +1,13 @@
 # Hi there! I'm Yuli 👋
 
-**Software Engineer & SDET | 10+ years of coding, now building quality into software** | **[Code & QA Zone](https://www.codeqazone.com/) founder**
+**Software Engineer & SDET | 10+ years building software and engineering quality into systems**
 
 ## About Me
 
-* 💻 _Software Engineer with 10+ years of experience as a full-stack developer, specializing in backend._  
-* 🛠️ _Former Tech Lead now dedicated to Software Quality, leveraging a dual-perspective to build more stable, secure, and scalable systems._  
-* 👩‍💻 _Leveraging a decade of dev expertise as a Remote SDET (Spain), specializing in automation frameworks that guarantee stable deployments and scalable backend solutions._
+* 💻 *Software Engineer with 10+ years of experience building full-stack applications, with a strong backend focus.*
+* 🛠️ *Former Tech Lead specialized in Software Quality, combining development and QA expertise to build reliable, scalable, and maintainable systems.*
+* 🚀 *Remote SDET based in Spain, focused on test automation, stable deployments, and quality-driven engineering practices.*
+* 🌐 *Founder of* [Code & QA Zone](https://www.codeqazone.com/?utm_source=chatgpt.com)
 
 ## Languages I Speak 🗣
 
@@ -51,6 +52,10 @@ Founder of **[Code & QA Zone](https://www.codeqazone.com/)**, where I share my j
 
 Check out my articles and community posts on [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/ypdev19) 
 
+## 🚀 Projects
+
+- [Free Invoice Generator](https://invoicegenerator.codeqazone.com/)**
+- [Free JSON Karate DSL Schema Generator](https://jsonkaratedslgenerator.codeqazone.com/)**
 
 ## 📫 How to reach me
 
