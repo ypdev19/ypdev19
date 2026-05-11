@@ -27,9 +27,9 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
 
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" />
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="karate" width="65" height="65"  />
 
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="karate" width="65" height="65"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="65" height="65" alt="cypress" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="65" height="65" alt="playwright" />
           
@@ -37,11 +37,13 @@ Here's a glimpse of my **core technologies** and the ones I focus on the most. T
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"  />
 </p>
 
-## ⭐📁 Check Out My Portfolio
+## 🚀 My Portfolio
 
-* Do you want to see more about my experience and projects? Visit my full portfolio **[here](https://github.com/ypdev19?tab=repositories)**.
+* [Free Invoice Generator](https://invoicegenerator.codeqazone.com/) with multi currency, multi language, dual theme switch, pdf download and ads free.
 
-* A free tool I made and you can use for free 👉 [Free Invoice Generator](https://invoicegenerator.codeqazone.com/) with multi currency, multi language, dual theme switch, pdf download and ads free.
+* [Free JSON Karate DSL Schema Generator](https://jsonkaratedslgenerator.codeqazone.com/) is a tool that saves you time, you can generate Karate DSL schemas instantly from JSON.
+
+* Do you want to see more about my experience and projects? Checkout my repos **[here](https://github.com/ypdev19?tab=repositories)**.
 
 ## 🌱 What I'm Learning Right Now 
 - **Italian** 🇮🇹🍕
@@ -52,10 +54,6 @@ Founder of **[Code & QA Zone](https://www.codeqazone.com/)**, where I share my j
 
 Check out my articles and community posts on [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/ypdev19) 
 
-## 🚀 Projects
-
-- [Free Invoice Generator](https://invoicegenerator.codeqazone.com/)**
-- [Free JSON Karate DSL Schema Generator](https://jsonkaratedslgenerator.codeqazone.com/)**
 
 ## 📫 How to reach me
 
